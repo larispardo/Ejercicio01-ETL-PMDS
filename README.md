@@ -13,3 +13,5 @@ De esto se puede hacer un pequeño resumen respondiendo ¿cuáles filas podemos 
 
 ### ¿Cómo se puede continuar?
 Si quisieras continuar el ejercicio después de haber análisado el proyecto de la extracción ideas son ien venidas, lo que yo recomiendo es dibujar la latitud y longitud de los datos sobre un mapa para ver si hay algún problema o error en ellos. ¡pero se puede hacer más! 
+
+Los datos fueron obtenidos de https://www.superdatascience.com/pages/training 
